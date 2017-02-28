@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "24.0.0"
+    defaultConfig {
+        applicationId "br.ufg.todolist"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    //View e compatibility
+    compile 'com.android.support:support-v4:25.1.1'
+    compile 'com.android.support:design:25.1.1'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+
+    //Web connection
+    compile 'com.squareup.okhttp3:okhttp:3.6.0'
+
+    //EventBus
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    //Image loading
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+    //Material Dialog
+    compile 'com.afollestad.material-dialogs:core:0.9.3.0'
+}

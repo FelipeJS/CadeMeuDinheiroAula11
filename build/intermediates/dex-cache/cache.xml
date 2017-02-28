@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_a4e37e20a652aa3d5cb1f9cd153b3c12a469c1fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_af0950c3b29b3fd645974606c3c02e4356ed4013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de7a7419adf97a681f96281fdf38be62861047d9">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.3.0_f55f314b4ef074d7315e10964219efd04b79913e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_aa6e339db985f616e9d225074836791db78ac0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\eventbus-3.0.0_9c24efeb8d12c94dfdf8039f59efc55418d49e1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_f1d8d00b9801be771cc65c126b8dc57a12763506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_cdd61914766e433a312f550eef45ca2703c5688f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_92014b741bcb8eb73e703f19324a65d36f2bd052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_a9aafaeeb001d3b8190ef90c718a08ea74d4f00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_d50f7f8f16a82e6f9377719f595d0c45ad50447e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\okio-1.11.0_d4ff92bf9ccf4e08e67cc593d1a5c0d9ed736777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_c7ade43a488b16c871536d7a6b82f419dc24b338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_3320735664298b531eb31c74d8dae85236875b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_7bd165ad5760deb6ed7785360a2eb4594a1d9d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\glide-3.7.0_0333896201bd27f27dc48f37be9ed8d7490c6e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_0ddb2d9e33a0ac528facf833fa0deea9a72fa9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.1.1_bc02c60593dbf895537d65b56d5450894df1c60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_60f2f3355219885de29faf21feb444deb0a3b3b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.3.0_3b2735287744df0713122427e269d7b448ae1a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="354834d2e83059c9a578751cb926e1f87e5e6b5d">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c58297dbaa2707a0e047e413246b3971f8cb4f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\okhttp-3.6.0_9ab300cd118efbde698b2157805f9a6619ee1bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5a9c4aee7d5aae7551afaa52116bfa2ade47dd93">
+        <dex dex="C:\Users\Felipe\Documents\Android\Aula11\app-persistencia\build\intermediates\pre-dexed\debug\instant-run_70a820c19e444e4f199c327998efc2e601a265be.jar" />
+    </item>
+
+</items>
