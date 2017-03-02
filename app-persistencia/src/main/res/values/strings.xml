@@ -2,7 +2,7 @@
     <string name="app_name">TodoList</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hint_username">Nome de usuário  ou email</string>
+    <string name="hint_username">CPF</string>
     <string name="hint_password">Senha</string>
 
     <string name="load_login">Verificando credenciais</string>
@@ -15,6 +15,15 @@
     <string name="error_password_empty">Senha não pode ser vazia</string>
     <string name="error_password_small">Senha não pode ter menos que 6 caracteres</string>
 
+    <string name="hint_description">Descrição</string>
+    <string name="hint_value">Valor</string>
+    <string name="button_register">Cadastrar</string>
+    <string name="hint_register_revenue">Cadastrar Receita</string>
+    <string name="hint_register_cost">Cadastrar Despesa</string>
 
+    <string name="user_name">Nome</string>
+    <string name="user_cpf">CPF</string>
+    <string name="user_password">Senha</string>
+    <string name="user_register">Cadastro de Usuário</string>
 
 </resources>
