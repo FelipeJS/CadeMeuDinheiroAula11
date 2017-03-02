@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.DialogTitle
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36"
+        android:textAlignment="center"
+        android:hint="@string/hint_register_revenue"/>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+        <EditText
+            android:id="@+id/description_revenue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="@string/hint_description"
+            android:textSize="15sp"/>
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin">
+
+        <EditText
+            android:id="@+id/value_revenue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text|numberDecimal"
+            android:hint="@string/hint_value"
+            android:textSize="15sp"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="registerRevenue"
+        android:text="@string/button_register"/>
+</LinearLayout>
